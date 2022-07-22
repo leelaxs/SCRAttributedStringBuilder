@@ -12,7 +12,7 @@ s.license      = { :type => 'MIT', :file => 'LICENSE' }
 s.author       = { "Joe Shang" => "shangchuanren@gmail.com" }
 s.source       = { :git => "https://github.com/joeshang/SCRAttributedStringBuilder.git", :tag => s.version.to_s }
 
-s.ios.deployment_target = "12.0"
+s.ios.deployment_target = "11.0"
 s.requires_arc = true
 s.swift_version = '5.0'
 
